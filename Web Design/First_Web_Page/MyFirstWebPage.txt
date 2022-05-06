@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> My First Web Page </title>
+</head>
+<body>
+<h1>Care and Feeding</h1>
+<p>Make sure your pet has plenty of <i><b> fresh water</i></b>during hot weather. When taking your dog on long walks, bring along a collapsable water dish and bottled water. You can find specialty water dishes at men pet supply stores for $10 or less.</p>
+</body>
+</html>
